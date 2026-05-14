@@ -47,7 +47,7 @@ lib/
 Prerequisites: Flutter SDK, Dart SDK ^3.10.4
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/mithil001/blog_management_app>
 cd blog_management_app
 flutter pub get
 flutter run
